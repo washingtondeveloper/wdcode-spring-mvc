@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+nav ul {
+	margin:0;
+	list-style-type: none;
+	background-color: #ccc;
+	border-bottom: 2px solid #363636;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 16px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #363636;
+}
+
+div {
+	width: 85%;
+	margin: 15px auto;
+	padding: 16px;
+	background-color: #eee;
+	font-family: sans-serif;
+	border-radius: 5px;	
+}
